@@ -11,6 +11,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 biocypher = "^0.5.33"
+jupyterlab = "^4.2.1"
 
 [build-system]
 requires = ["poetry-core"]
